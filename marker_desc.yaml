@@ -1,0 +1,9 @@
+
+train: dataset/augmentations/
+val: dataset/augmentations/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['marker']
